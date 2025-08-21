@@ -1,6 +1,7 @@
 # Product Filter (PHP)
 
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/f624571c-7f30-407f-ab87-ca517f06baf0" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/a71da016-7409-4c3f-b6b1-e1829456666d" />
+
 
 This project ([filter/filter.php](filter/filter.php)) demonstrates a simple product filtering system using PHP. Users can filter a list of products by color and size using dropdown menus. The page dynamically updates the displayed products based on the selected filters.
 
